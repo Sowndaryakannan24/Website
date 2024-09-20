@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sowndarya Kannan - Cloud Computing Enthusiast and Software Developer">
+    <title>Sowndarya Kannan | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Sowndarya Kannan</h1>
+        <p>Cloud Computing Enthusiast | BE Computer Science</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm Sowndarya Kannan, a passionate learner of cloud computing, currently pursuing a BE in Computer Science at Knowledge Institute of Technology.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: C, Java</li>
+            <li>Database: MySQL</li>
+            <li>Version Control: Git, GitHub</li>
+            <li>Cloud Platforms: AWS</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Hotel Booking Chatbot (Amazon Lex)</h3>
+            <p>A chatbot designed to assist users in booking hotel rooms using AWS Lex.</p>
+        </div>
+        <div class="project">
+            <h3>Data Visualization (Amazon QuickSight)</h3>
+            <p>Created visual dashboards to provide insights from various datasets using Amazon QuickSight.</p>
+        </div>
+        <div class="project">
+            <h3>Fortune Teller Application</h3>
+            <p>A fun application that predicts the user’s fortune using randomized algorithms.</p>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>BE Computer Science</strong>, Knowledge Institute of Technology</p>
+        <p>12th Grade: Jeevan Matric Hr Sec School (90%)</p>
+        <p>10th Grade: Sakthi Matric Hr Sec School (89%)</p>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>AWS Certified Solution Architect Associate</li>
+            <li>AWS Certified Cloud Practitioner</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/sowndarya-kannan-50a55b236/" target="_blank">LinkedIn Profile</a></p>
+        <p>GitHub: <a href="https://github.com/Sowndaryakannan24" target="_blank">GitHub Profile</a></p>
+        <p>Email: sowndarya@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sowndarya Kannan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
